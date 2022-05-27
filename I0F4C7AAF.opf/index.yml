@@ -1,0 +1,19 @@
+id: 42acb1d64ea84224916b915695c3509a
+annotation_type: index
+revision: '00001'
+annotations:
+  3fb2da229f3f4aad8b77def982d34957:
+    base: f2530.txt
+    span:
+      start: 0
+      end: 20
+  ba52d294dbd44c4e85df6fec3ebd34fb:
+    base: f5996.txt
+    span:
+      start: 0
+      end: 10315
+  40a3e6ce1fd64b7daf7d0bbf7baf4440:
+    base: f6690.txt
+    span:
+      start: 0
+      end: 2655
